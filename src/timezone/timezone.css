@@ -1,0 +1,25 @@
+.timeZone{
+    width: 100%;
+}
+.timezone-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .time-zone-input {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 8px; /* Adjust as needed */
+  }
+  
+  
+ 
+ 
